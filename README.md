@@ -1,2 +1,2 @@
 # GameOfLife
-# A clone of Conway's Game of Life
+## A clone of Conway's Game of Life
